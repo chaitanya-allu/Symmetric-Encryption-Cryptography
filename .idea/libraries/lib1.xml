@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EncryptionApp/lib/javax.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EncryptionApp/lib/javafx-mx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
